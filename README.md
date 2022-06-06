@@ -2,4 +2,4 @@
 - 👋 Olá, eu sou Isabela Brandão
 - 👀 Meu email para contato é brandao.isabela@ecola.pr.gov.br
 - 🌱 Eu estou interessada em aprender a programar novas linguagens
-- 📫 Eu estou aprendendo a programar a linguagem JavaScript e Scratc
+- 📫 Eu estou aprendendo a programar a linguagem JavaScript e Scratch
